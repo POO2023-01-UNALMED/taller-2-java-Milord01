@@ -11,7 +11,8 @@ public void cambiarRegistro(int registro) {
 
 }
 public void asignarTipo(String tipo) {
-	if (tipo=="electrico"||tipo=="gasolina");
+	if (tipo=="electrico"||tipo=="gasolina") {
 	this.tipo=tipo;
+	}
 }
 }
